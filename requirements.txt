@@ -1,0 +1,4 @@
+boto
+flask
+tornado
+pycurl

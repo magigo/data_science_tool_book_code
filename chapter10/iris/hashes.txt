@@ -1,0 +1,7 @@
+Current git commit:
+96262749f878ae75c6d0649406bd07a0a0a6ec8c
+
+Current input/ouput md5 hashes:
+MD5 (output/Iris.csv) = 717820ef0af287ff346c5cabfb4c612c
+MD5 (output/database.sqlite) = 9d958ebdd45a8c15e0366b21cac04198
+MD5 (input/Iris.csv) = 42615765a885ddf54427f12c34a0a070
